@@ -1,0 +1,79 @@
+.input-brdr{
+    border-radius: 20px;
+    
+}
+.frm-margin{
+    margin-left: 200px;
+}
+.home{
+    padding-left: 20px;
+}
+.container{
+    margin-bottom: 100px;
+
+}
+.c-bg{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+.price{
+    color:deeppink
+}
+.carousel-padding{
+    padding: 40px 30px;
+}
+.buy-now-btn{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    padding: 10px 15px;
+    border-radius:8px;
+    background-image: linear-gradient(90deg, rgb(240, 64, 102),rgb(247, 108, 43));
+}
+.buy-now-btn:hover{
+    color: wheat !important;
+}
+.categories h1{
+    color: white;
+padding: 40px 10px;
+}
+.categories img{
+    width: 120px;
+}
+.cat1, .cat2, .cat3{
+border-radius: 10px;
+margin-bottom: 20px;
+}
+.cat1{
+    background-image: linear-gradient(yellow 0%, orange 50%,yellowgreen 80%);
+}
+.cat2{
+    background-image: linear-gradient(deeppink 0%, orange 70%);
+}
+.cat3{
+    background-image: linear-gradient(rgb(243, 52, 243) 20%, rgb(68, 68, 240) 90%);
+
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+    padding-bottom: 20px;
+}
+.shoes p{
+    color: grey;
+}
+.bagpack p {
+    color: grey;
+}
+.submit-btn{
+    border-radius: 5px;
+    margin-top: 10px;
+    border: none;
+    color: white;
+    font-weight: 600;
+    padding: 10px 20px;
+    background-image: linear-gradient(60deg,rgb(243, 30, 172) 5%,  rgb(231, 50, 50) 80%);
+}
+.inpt-ht{
+    height: 300px;
+}
